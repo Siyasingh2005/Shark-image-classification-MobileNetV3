@@ -121,7 +121,7 @@ Pillow
 
 ## 🙋 Author
 
-**Siya Singh** — [LinkedIn](https://linkedin.com/in/siya-singh) | [GitHub](https://github.com/siyasingh)
+**Siya Singh** — [LinkedIn](www.linkedin.com/in/siya-singh-947a2a289) | [GitHub](https://github.com/siyasingh2005)
 
 ---
 
